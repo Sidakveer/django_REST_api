@@ -11,4 +11,11 @@ third add custom  user profile model, manage and migrations which  will create a
 3. Create  superuser  with a django CLI , now
 we will setup models in profiles_api/admin.py and now we can access our database on the local server and access the admin section created
 
-4. 
+4. Creating our own APIView.
+an_apiview = [
+    "Uses HTTP methods as function (get, post, put, patch, delete)",
+    "Is similar to a traditional django view",
+    "Gives us most control over our application logic",
+    "is mapped manually to urls"
+
+    ]
