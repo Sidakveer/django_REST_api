@@ -19,3 +19,5 @@ an_apiview = [
     "is mapped manually to urls"
 
     ]
+
+add get method
