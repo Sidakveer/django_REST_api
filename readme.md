@@ -20,4 +20,6 @@ an_apiview = [
 
     ]
 
-add get method
+add get method, post, put....
+
+5. creating viewsets used to work with our database with api's
