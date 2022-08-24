@@ -27,3 +27,6 @@ add get method, post, put....
 ===================================
 
 6. create profiles API
+- create profile viewset and link it with a url router.....now we can retrieve info  on anyone in the database or add new entry or patch it and so on
+
+- but anyone can update anyone elses info so  we add  permissions.py file which prevents that behaviour.
