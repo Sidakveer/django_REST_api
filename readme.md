@@ -30,3 +30,5 @@ add get method, post, put....
 - create profile viewset and link it with a url router.....now we can retrieve info  on anyone in the database or add new entry or patch it and so on
 
 - but anyone can update anyone elses info so  we add  permissions.py file which prevents that behaviour.
+
+- add filters in permissions.py to search by name or email.
