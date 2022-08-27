@@ -32,3 +32,8 @@ add get method, post, put....
 - but anyone can update anyone elses info so  we add  permissions.py file which prevents that behaviour.
 
 - add filters in permissions.py to search by name or email.
+
+
+================
+
+7. add authtokens for user to pass in their headers when making api requests
