@@ -37,3 +37,9 @@ add get method, post, put....
 ================
 
 7. add authtokens for user to pass in their headers when making api requests
+
+===================
+
+8. now we create a profile feed api and repeat the previous steps of creating a model , setting up serializers, setting a viewset class, add the viewset to router in urls.py and test it
+
+9. adding a new  class in permissions.py to see if the user is updating their own status
