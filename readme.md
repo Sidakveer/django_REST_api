@@ -43,3 +43,7 @@ add get method, post, put....
 8. now we create a profile feed api and repeat the previous steps of creating a model , setting up serializers, setting a viewset class, add the viewset to router in urls.py and test it
 
 9. adding a new  class in permissions.py to see if the user is updating their own status
+
+===================
+
+10. Now we will  deploy our rest api on aws (amazon) web services so the world has access to our api.
